@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "unit test 3",
+      "setup": "",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 39
+    },
+    {
+      "name": "kl",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 39
+    }
+  ]
+}
